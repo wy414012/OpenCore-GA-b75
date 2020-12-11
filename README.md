@@ -13,6 +13,8 @@ tool //工具路径
 #注意 ！ 注意 ! 注意！
 
 需要显卡VDA硬解开启的请将SMBIOS 在安装前更改到iMacPro1,1 默认为MacPro6,1
+# 国内镜像同步地址[https://gitee.com/yaming-network/opencore-ga-b75m-d3v-E31230V2--RX580-2304sp]
+
 
  
   
