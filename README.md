@@ -8,6 +8,9 @@
   EFI //启动用的引导
   com.apple.recovery.boot //恢复版镜像放入的路径
   tool //工具路径
+# 推荐初始安装原版macOS Catalina 10.15.7后升级macOS big sur
+
+ 
   
   
   
