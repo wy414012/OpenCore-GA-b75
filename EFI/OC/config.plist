@@ -254,28 +254,10 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>PciRoot(0x0)/Pci(0x1E,0x0)/Pci(0x1,0x0)</key>
-			<dict>
-				<key>AAPL,slot-name</key>
-				<string>Internal@0,30,0/1,0</string>
-				<key>device_type</key>
-				<string>Multimedia audio controller</string>
-				<key>model</key>
-				<string>EMU10k2/CA0100/CA0102/CA10200 [Sound Blaster Audigy Series]</string>
-			</dict>
 			<key>PciRoot(0x0)/Pci(0x1B,0x0)</key>
 			<dict>
 				<key>layout-id</key>
 				<data>BQAAAA==</data>
-			</dict>
-			<key>PciRoot(0x0)/Pci(0x1E,0x0)/Pci(0x1,0x1)</key>
-			<dict>
-				<key>AAPL,slot-name</key>
-				<string>Internal@0,30,0/1,1</string>
-				<key>device_type</key>
-				<string>Input device controller</string>
-				<key>model</key>
-				<string>SB Audigy Game Port</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -296,24 +278,6 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/Lilu</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>kXAudioDriver.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/kXAudioDriver</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
