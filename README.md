@@ -18,7 +18,7 @@ GA-b75md3v-e31230-rx588
 - com.apple.recovery.boot //恢复版镜像放入的路径
 - tool //工具路径
 - 推荐初始安装原版macOS Catalina 10.15.7后升级 
-![image](https://github.com/wy414012/OpenCore-GA-b75/blob/main/macOS%20Big%20Sur.png)
+![image](/macOS%20Big%20Sur.png)
 
 ### 注意 ！ 注意 ! 注意！ ###
 
