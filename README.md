@@ -17,7 +17,7 @@ GA-b75md3v-e31230-rx588
 - EFI //启动用的引导
 - com.apple.recovery.boot //恢复版镜像放入的路径
 - tool //工具路径
-- 推荐初始安装原版macOS Catalina 10.15.7后升级macOS big sur
+- 推荐初始安装原版macOS Catalina 10.15.7后升级 ![macOS big sur](/macOS Big Sur.png)
 
 ### 注意 ！ 注意 ! 注意！ ###
 
@@ -44,7 +44,6 @@ GA-b75md3v-e31230-rx588
 ### 鸣谢 ###
 - [open core](https://github.com/acidanthera/OpenCorePkg) 团队提供的引导以及驱动贡献者
 - apple 的OS
-
 
 
  
