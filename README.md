@@ -25,8 +25,8 @@ GA-b75md3v-e31230-rx588
 - 需要显卡VDA硬解开启的请将SMBIOS 在安装前更改到iMacPro1,1 默认为MacPro6,1
 - v2.0版本开始均已经无需升级SMBIOS 机型默认已经升级到iMacPro1,1
 - 安装前请自行生成新的三码
-- [国内镜像同步地址](https://gitee.com/yaming-network/opencore-ga-b75m-d3v-E31230V2--RX580-2304sp)
-- [github代码库地址](https://github.com/wy414012/opencore-ga-b75m-d3v)
+- [国内镜像同步地址](https://gitee.com/yaming-network/OpenCore-GA-b75)
+- [github代码库地址](https://github.com/wy414012/OpenCore-GA-b75)
 
 ### V2.0发布版本介绍 ###
 - 该版本去除了啰嗦模式
