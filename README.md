@@ -1,3 +1,5 @@
+[简体中文](/README.md)｜[English](/README_en.md)
+
 GA-b75md3v-e31230-rx588
 =======================
 
