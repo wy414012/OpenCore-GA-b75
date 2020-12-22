@@ -23,7 +23,11 @@ GA-b75md3v-e31230-rx588
 - tool //工具路径
 - 推荐初始安装原版macOS Catalina 10.15.7后升级 
 ![image](/macOS%20Big%20Sur.png)
-
+### 三、白果环境下制作安装u盘 ###
+- usb驱动名称 `usbmac`
+- [macOS big sur](https://apps.apple.com/cn/app/macos-big-sur/id1526878132?mt=12) `sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/usbmac`
+- [macOS Catalina](https://itunes.apple.com/cn/app/macos-catalina/id1466841314?ls=1&mt=12) `sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/usbmac`
+- [macOS Mojave](https://itunes.apple.com/cn/app/macos-mojave/id1398502828?ls=1&mt=12) `sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/usbmac`
 ### 注意 ！ 注意 ! 注意！ ###
 
 - 需要显卡VDA硬解开启的请将SMBIOS 在安装前更改到iMacPro1,1 默认为MacPro6,1
