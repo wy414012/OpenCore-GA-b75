@@ -35,29 +35,8 @@ GA-b75md3v-e31230-rx588
 - 安装前请自行生成新的三码
 - [国内镜像同步地址](https://gitee.com/yaming-network/OpenCore-GA-b75)
 - [github代码库地址](https://github.com/wy414012/OpenCore-GA-b75)
+- [发布版本说明](/Changelog.md)
 
-### V2.0发布版本介绍 ###
-- 该版本去除了啰嗦模式
-- 修正了声卡ID，原生安装macOS big sur 
-- SMBIOS更新到iMacPro1,1原生开启显卡VDA硬解
-- 添加创新KX驱动和板载ALC887声卡不冲突共存
-- 增加BOOTCAMP引导支持，更加无缝的引导双系统
-- 修正USB端口，关闭引导USB端口限制补丁，修正USB大功耗设备供电支持等。
-- 如果不需要创新声卡支持请用v1.0版本
-- open core保持版本稳定版v0.6.4
-- 维护周期说明 每次open core升级后均会进行维护
-### v2.0.1发布版说明 ###
-- 修正2.0版本中的一个可能会导致运行崩溃的bug
-- 去除了默认支持kx设备创新em10系列支持
-- 修正了alc887声卡已实现定制
-- 2.0.1定义为过度版本，v2.0使用正常无需更新
-### v2.0.2 ###
-- 支持macOS Big Sur 11.0.1升级11.1正式版
-
-### v3.0 ###
-- 默认代码库内为最新稳定版本
-- v3.0发布版本准备中
-- v3.0目前处于open corev0.6.5开发版本中调试，等待稳定版发布后同步推送
 ### 鸣谢 ###
 - [open core](https://github.com/acidanthera/OpenCorePkg) 团队提供的引导以及驱动贡献者
 - apple 的OS
