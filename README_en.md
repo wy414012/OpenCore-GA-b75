@@ -33,28 +33,10 @@ GA-b75md3v-e31230-rx588
 - Please generate a new three code before installation
 - [Domestic mirror synchronization address](https://gitee.com/yaming-network/OpenCore-GA-b75)
 - [GitHub code base address](https://github.com/wy414012/OpenCore-GA-b75)
-
-### Introduction to v2.0 release ###
-- This version removes the wordy mode
-
-- Fixed sound card ID, native installation of MacOS Big Sur
-
-- SMBIOS update to imacpro1,1 native open video card VDA hard solution
-
-- Add innovative KX driver and onboard alc887 sound card without conflict coexistence
-
-- Added bootcamp boot support, more seamless boot dual system
-
-- Fix the USB port, close the boot USB port restriction patch, and fix the power supply support of USB high-power devices.
-
-- If you do not need innovative sound card support, please use v1.0
-
-- Open core keeps version stable version v0.6.4
-
-- The maintenance cycle indicates that maintenance will be carried out after each open core upgrade
+- [Release release notes](/Changelog_en.md)
 
 ### Thanks ###
-- [lOpen Core](https://github.com/acidanthera/OpenCorePkg) Guidance provided by the team and driving contributors
+- [Open Core](https://github.com/acidanthera/OpenCorePkg) Guidance provided by the team and driving contributors
 - apple OS
 
 
