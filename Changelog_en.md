@@ -27,3 +27,9 @@
 - Fixed bug in Mac OS Big Sur 11.0.1 upgrade 11.1
 
 - Clean guidance
+### v2.0.4 ###
+- Fix a bug with incorrect resolution on 2K 4K monitor at startup
+
+- Fixed a bug that feigned death when upgrading to Mac OS Big Sur 11.1
+
+- Fix the disk selection error when booting
