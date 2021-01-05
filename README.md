@@ -6,7 +6,7 @@ GA-b75md3v-e31230-rx588
 
 ###  一、安装使用说明 ###
 
-- 硬件准备
+#### 硬件准备
 - 主板：
 - 技嘉B75M-d3v
 - cpu：
@@ -14,7 +14,7 @@ GA-b75md3v-e31230-rx588
 - 显卡：
 - rx580 8g 2304或者gtx760 gtx770 (均已测试完美)
 
-### 二、文件夹结构说明 ###
+### 文件夹结构说明 ###
 
 - EFI //启动用的引导
 - com.apple.recovery.boot //恢复版镜像放入的路径
@@ -23,7 +23,7 @@ GA-b75md3v-e31230-rx588
 - tool //工具路径
 - 推荐初始安装原版macOS Catalina 10.15.7后升级 
 ![image](/macOS%20Big%20Sur.png)
-### 三、白果环境下制作安装u盘 ###
+### 白果环境下制作安装u盘 ###
 - usb驱动名称 `usbmac`
 - [macOS big sur](https://apps.apple.com/cn/app/macos-big-sur/id1526878132?mt=12) `sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/usbmac`
 - [macOS Catalina](https://itunes.apple.com/cn/app/macos-catalina/id1466841314?ls=1&mt=12) `sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/usbmac`
