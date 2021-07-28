@@ -23,6 +23,18 @@ GA-b75md3v-e31230-rx588
 - tool //工具路径
 - 推荐初始安装原版macOS Catalina 10.15.7后升级 
 ![image](/macOS%20Big%20Sur.png)
+
+### CPU变频修复 ###
+#### 开始修复:
+- Mac下使用ssdtPRGen.sh生成专属的cpu变频文件 
+- 使用之前请打开终端先安装```xcode-select --install``` 命令行开发者工具
+- 执行如下命令:
+- ```curl -o ~/ssdtPRGen.sh https://gitee.com/yaming-network/ssdtPRGen.sh/raw/master/ssdtPRGen.sh```
+- ```wc -c ssdtPRGen.sh```
+- ```chmod +x ~/ssdtPRGen.sh```
+- 运行 ```sudo ./ssdtPRGen.sh```
+- 生成的SSDT-CPUM.aml在 ~/Desktop/CPUssdt目录中
+- 然后放入acpi目录中启用即可享受原生电源管理和变频
 ### 白果环境下制作安装u盘 ###
 - usb驱动名称 `usbmac`
 - [macOS big sur](https://apps.apple.com/cn/app/macos-big-sur/id1526878132?mt=12) `sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/usbmac`
