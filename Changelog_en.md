@@ -1,3 +1,6 @@
+### 2.0.7 ###
+- Add AppleAlc 32-bit support
+
 ### v1.0 ###
 
 - Basic configuration of initial installation of MacOS Catalina
