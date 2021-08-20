@@ -2,7 +2,7 @@
 - 修复bug
 - 清理不在需要的驱动
 - Add AppleAlc 32-bit support
-
+- 更新bios的cpu微码，以及UEFI GOP模块，现在支持最新的AMD6700xt系列显卡了。
 ### v2.0.6 ###
 - 升级核心与驱动版本
 - 核心版本升级到ver071
