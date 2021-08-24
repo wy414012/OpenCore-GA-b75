@@ -28,6 +28,20 @@ GA-b75md3v-e31230-rx588
 - [ProperTree](https://github.com/corpnewt/ProperTree)
 - [SMBIOS](https://github.com/corpnewt/GenSMBIOS)
 - [USB map](https://github.com/corpnewt/USBMap)
+### kext ###
+驱动名称 | 用途 | 更新地址
+:--- | :--- | :---
+**AppleALC.kext** ｜ **声卡驱动** | **https://github.com/acidanthera/AppleALC/releases**
+**CpuTscSync.kext** | **Cpu同步** | **https://github.com/acidanthera/CpuTscSync/releases**
+**HibernationFixup.kext** | **睡眠补丁** | **https://github.com/acidanthera/HibernationFixup/releases**
+**Lilu.kext** | **主要插件** | **https://github.com/acidanthera/Lilu/releases**
+**RealtekRTL8111.kext** | **网卡** | **^^**
+**SMCProcessor.kext** | **CPU温度监控** | **^^**
+**SMCSuperIO.kext** | **SMCIO** | **^^**
+**USBMap.kext** | **USb驱动** | **^^**
+**VirtualSMC.kext** | **高级SMC仿真驱动** | **https://github.com/acidanthera/VirtualSMC/releases**
+**WhateverGreen.kext** | **显卡补丁** | **https://github.com/acidanthera/WhateverGreen/releases**
+---
 
 ### be careful! Attention! Attention! ###
 

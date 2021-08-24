@@ -23,6 +23,21 @@ GA-b75md3v-e31230-rx588
 - usb驱动内看起来像是这样
 ![image](./docs/usb.png)
 
+### 主要驱动 ###
+驱动名称 | 用途 | 更新地址
+:--- | :--- | :---
+**AppleALC.kext** ｜ **声卡驱动** | **https://github.com/acidanthera/AppleALC/releases**
+**CpuTscSync.kext** | **Cpu同步** | **https://github.com/acidanthera/CpuTscSync/releases**
+**HibernationFixup.kext** | **睡眠补丁** | **https://github.com/acidanthera/HibernationFixup/releases**
+**Lilu.kext** | **主要插件** | **https://github.com/acidanthera/Lilu/releases**
+**RealtekRTL8111.kext** | **网卡** | **^^**
+**SMCProcessor.kext** | **CPU温度监控** | **^^**
+**SMCSuperIO.kext** | **SMCIO** | **^^**
+**USBMap.kext** | **USb驱动** | **^^**
+**VirtualSMC.kext** | **高级SMC仿真驱动** | **https://github.com/acidanthera/VirtualSMC/releases**
+**WhateverGreen.kext** | **显卡补丁** | **https://github.com/acidanthera/WhateverGreen/releases**
+---
+
 - 推荐初始安装原版macOS Catalina 10.15.7后升级 
 ![image](./docs/macOS%20Big%20Sur.png)
 ### 关于常用工具 ###
