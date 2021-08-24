@@ -18,13 +18,16 @@ GA-b75md3v-e31230-rx588
 `Boot for startup`
 - com.apple.recovery.boot 
 `Path of the restored image`
-- tool 
-`Tool path`
 - It is recommended to upgrade after initial installation of original MacOS Catalina 10.15.7
 ![image](/macOS%20Big%20Sur.png)
 - The USB drive looks like this
 
 ![image](/usb.png)
+
+### tools ###
+- [ProperTree](https://github.com/corpnewt/ProperTree)
+- [SMBIOS](https://github.com/corpnewt/GenSMBIOS)
+- [USB map](https://github.com/corpnewt/USBMap)
 
 ### be careful! Attention! Attention! ###
 
