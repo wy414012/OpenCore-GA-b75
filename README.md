@@ -15,14 +15,20 @@ GA-b75md3v-e31230-rx588
 - rx580 8g 2304或者gtx760 gtx770 (均已测试完美)
 
 ### 文件夹结构说明 ###
-
-- EFI //启动用的引导
-- com.apple.recovery.boot //恢复版镜像放入的路径
+:--- | :--- | :---
+文件夹名称 | 用途 | 备注
+**EFI** ｜**启动用的引导** ｜ **主要**
+**com.apple.recovery.boot** | **网络恢复镜像存放路径** | ^^
+---
 - usb驱动内看起来像是这样
 ![image](/usb.png)
-- tool //工具路径
+
 - 推荐初始安装原版macOS Catalina 10.15.7后升级 
 ![image](/macOS%20Big%20Sur.png)
+### 关于常用工具 ###
+- [通用 plist 编辑器 ProperTree](https://github.com/corpnewt/ProperTree)
+- [SMBIOS生成器](https://github.com/corpnewt/GenSMBIOS)
+- [USB驱动定制工具](https://github.com/corpnewt/USBMap)
 
 ### CPU变频修复 ###
 #### 开始修复:
