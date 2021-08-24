@@ -26,7 +26,7 @@ GA-b75md3v-e31230-rx588
 ### 主要驱动 ###
 驱动名称 | 用途 | 更新地址
 :--- | :--- | :---
-**AppleALC.kext** ｜ **声卡驱动** | **https://github.com/acidanthera/AppleALC/releases**
+**AppleALC.kext** | **声卡驱动** | **https://github.com/acidanthera/AppleALC/releases**
 **CpuTscSync.kext** | **Cpu同步** | **https://github.com/acidanthera/CpuTscSync/releases**
 **HibernationFixup.kext** | **睡眠补丁** | **https://github.com/acidanthera/HibernationFixup/releases**
 **Lilu.kext** | **主要插件** | **https://github.com/acidanthera/Lilu/releases**
