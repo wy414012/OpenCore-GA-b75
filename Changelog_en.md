@@ -1,5 +1,6 @@
 ### 2.0.7 ###
 - Add AppleAlc 32-bit support
+- add linux support
 
 ### v1.0 ###
 
