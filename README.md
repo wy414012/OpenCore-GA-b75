@@ -71,7 +71,7 @@ GA-b75md3v-e31230-rx588
 - [国内镜像同步地址](https://gitee.com/yaming-network/OpenCore-GA-b75)
 - [github代码库地址](https://github.com/wy414012/OpenCore-GA-b75)
 - [发布版本说明](/Changelog.md)
-
+- 现在完全支持oc引导linux了
 ### 鸣谢 ###
 - [open core](https://github.com/acidanthera/OpenCorePkg) 团队提供的引导以及驱动贡献者
 - apple 的OS
