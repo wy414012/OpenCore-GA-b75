@@ -1281,6 +1281,8 @@
 			<integer>0</integer>
 			<key>ForgeUefiSupport</key>
 			<false/>
+			<key>ForceOcWriteFlash</key>
+			<false/>
 			<key>IgnoreInvalidFlexRatio</key>
 			<true/>
 			<key>ReleaseUsbOwnership</key>
