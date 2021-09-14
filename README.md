@@ -46,7 +46,8 @@ GA-b75md3v-e31230-rx588
 - [通用 plist 编辑器 ProperTree](https://github.com/corpnewt/ProperTree)
 - [SMBIOS生成器](https://github.com/corpnewt/GenSMBIOS)
 - [USB驱动定制工具](https://github.com/corpnewt/USBMap)
-
+### 关于那些想用核心显卡来进行工作的请参考 ###
+- **[英特尔核心显卡说明](./intelHD.md)**
 ### CPU变频修复 ###
 #### 开始修复:
 - Mac下使用ssdtPRGen.sh生成专属的cpu变频文件 
