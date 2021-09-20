@@ -43,7 +43,7 @@ GA-b75md3v-e31230-rx588
 - 验证升级macOS12完成
 - ![](./docs/macOS12.png)
 ### 关于常用工具 ###
-- [通用 plist 编辑器 ProperTree](https://github.com/corpnewt/ProperTree)
+- [通用 plist 编辑器 ProperTree](https://github.com/wy414012/ProperTree)
 - [SMBIOS生成器](https://github.com/corpnewt/GenSMBIOS)
 - [USB驱动定制工具](https://github.com/corpnewt/USBMap)
 ### 关于那些想用核心显卡来进行工作的请参考 ###

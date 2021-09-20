@@ -1113,36 +1113,44 @@
 		<key>Drivers</key>
 		<array>
 			<dict>
-				<key>Path</key>
-				<string>HfsPlus.efi</string>
-				<key>Enabled</key>
-				<true/>
 				<key>Arguments</key>
 				<string></string>
-			</dict>
-			<dict>
-				<key>Path</key>
-				<string>OpenRuntime.efi</string>
 				<key>Enabled</key>
 				<true/>
-				<key>Arguments</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>Path</key>
-				<string>OpenCanopy.efi</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Arguments</key>
-				<string></string>
-			</dict>
-			<dict>
+				<key>Comment</key>
+				<string>ExFatDxe.efi</string>
 				<key>Path</key>
 				<string>ExFatDxe.efi</string>
-				<key>Enabled</key>
-				<true/>
+			</dict>
+			<dict>
 				<key>Arguments</key>
 				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Comment</key>
+				<string>HfsPlus.efi</string>
+				<key>Path</key>
+				<string>HfsPlus.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Comment</key>
+				<string>OpenCanopy.efi</string>
+				<key>Path</key>
+				<string>OpenCanopy.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Comment</key>
+				<string>OpenRuntime.efi</string>
+				<key>Path</key>
+				<string>OpenRuntime.efi</string>
 			</dict>
 		</array>
 		<key>Input</key>
