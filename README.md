@@ -43,6 +43,11 @@ GA-b75md3v-e31230-rx588
 - ![](./docs/macOSBigSur.png)
 - 验证升级macOS12完成
 - ![](./docs/macOS12.png)
+### 关于升级macOS12中OTA安装不正确的说明
+- 目前已知受到影响的机型`Mac Pro7,1 ｜ iMac Pro1,1`
+- 正确的机型`Mac Pro6,1`不受影响
+- 内置USB驱动请自行定制相关机型。
+
 ### 关于常用工具 ###
 - [通用 plist 编辑器 ProperTree](https://github.com/wy414012/ProperTree)
 - [SMBIOS生成器](https://github.com/corpnewt/GenSMBIOS)
