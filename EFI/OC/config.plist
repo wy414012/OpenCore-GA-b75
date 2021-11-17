@@ -66,7 +66,7 @@
 				<key>Comment</key>
 				<string>SSDT-CPUM.aml</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>SSDT-CPUM.aml</string>
 			</dict>
@@ -1141,6 +1141,16 @@
 				<string>OpenRuntime.efi</string>
 				<key>Path</key>
 				<string>OpenRuntime.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Comment</key>
+				<string>NvmExpressDxe.efi</string>
+				<key>Path</key>
+				<string>NvmExpressDxe.efi</string>
 			</dict>
 		</array>
 		<key>Input</key>
