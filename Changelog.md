@@ -11,6 +11,7 @@
 - `EFI Realtek UNDI Driver     - 2.056`
 - `OROM Realtek Boot Agent GE  - 2.67`
 - 添加NVME磁盘支持模块Version: 1.0
+- 更新核心版本到0.7.7
 ### v2.0.9 ###
 - 更新核心到0.7.5
 - 更新`HfsPlus.efi`到固件`MP61_F000_B00_2021-09-16_19-09_412328B1`提升macOS12beta10下的加载效率
